@@ -21,7 +21,7 @@ public class CardBoxActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_card_box);
-        refresh();
+        //refresh();
 
     }
 
