@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/carson/celebond/AttendedActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/carson/celebond/ConfirmActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/carson/celebond/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/carson/celebond/MyPartyActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/carson/celebond/SignUpActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/bg_main_3.png" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_login.xml" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v11" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/attrs.xml" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/color.xml" charset="x-windows-950" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/colors.xml" charset="x-windows-950" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
